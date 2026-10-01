@@ -1,0 +1,1 @@
+{"name":"rewind-the-result","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1"},"dependencies":{"gsap":"^3.14.2","@fontsource-variable/manrope":"^5.2.8","@fontsource-variable/bodoni-moda":"^5.2.8"},"devDependencies":{"vite":"^7.1.7"}}
